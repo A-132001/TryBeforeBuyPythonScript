@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Database
+*.sqlite3
+
+# Logs
+*.log
+
+# Django files
+staticfiles/
+media/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
